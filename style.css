@@ -1,0 +1,36 @@
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+.wrapper {
+    width: 1119px 415px;
+}
+
+.container {
+    text-align: center;
+}
+
+.avatar {
+    width: 580px;
+    display: flex;
+}
+
+.button {
+    background-color: #D64374;
+    color: white;
+    border-radius: 5px;
+    padding: 15px 46px;
+    cursor: pointer;
+}
+
+.text {
+    font-family: 'Hind Madurai', sans-serif;
+}
